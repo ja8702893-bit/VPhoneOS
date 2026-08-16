@@ -1,4 +1,4 @@
-## Hi there 👋
+gh repo clone VPhoneOS/VPhoneOS## Hi there 👋
 
 VPhoneOS: The Ultimate Virtual Machine for Android Devices
 VPhoneOS is a cutting-edge virtualization solution designed specifically for Android smartphones. Powered by an independent kernel engine, it delivers exceptional compatibility and performance, often surpassing the smoothness and efficiency of cloud phones. Whether you are a tech enthusiast, developer, or everyday user, VPhoneOS is your ideal choice.
